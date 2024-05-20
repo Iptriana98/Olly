@@ -21,7 +21,8 @@ and track their transaction history.
 ## Demo Video
 
 Check out this video to see the app in action:
-<img src="Screenshot_20240520_175151.png" alt="Screenshot 2" width="220"/>
+
+<img src="Demo.gif" alt="Screenshot 2" width="220"/>
 
 ## Prerequisites
 
