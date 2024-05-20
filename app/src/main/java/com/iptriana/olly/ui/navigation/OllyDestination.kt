@@ -6,6 +6,9 @@ import androidx.compose.material.icons.filled.Money
 import androidx.compose.material.icons.filled.MoneyOff
 import androidx.compose.material.icons.filled.PieChart
 import androidx.compose.ui.graphics.vector.ImageVector
+import androidx.navigation.NavType
+import androidx.navigation.navArgument
+import androidx.navigation.navDeepLink
 
 
 /**
@@ -34,18 +37,18 @@ object Bills : OllyDestination {
     override val route = "bills"
 }
 
-//object SingleAccount : OllyDestination {
-//    override val icon = Icons.Filled.Money
-//    override val route = "single_account"
-//    const val accountTypeArg = "account_type"
-//    val routeWithArgs = "$route/{$accountTypeArg}"
-//    val arguments = listOf(
-//        navArgument(accountTypeArg) { type = NavType.StringType }
-//    )
-//    val deepLinks = listOf(
-//        navDeepLink { uriPattern = "Olly://$route/{$accountTypeArg}" }
-//    )
-//}
+object SingleAccount : OllyDestination {
+    override val icon = Icons.Filled.Money
+    override val route = "single_account"
+    const val accountTypeArg = "account_type"
+    val routeWithArgs = "$route/{$accountTypeArg}"
+    val arguments = listOf(
+        navArgument(accountTypeArg) { type = NavType.StringType }
+    )
+    val deepLinks = listOf(
+        navDeepLink { uriPattern = "Olly://$route/{$accountTypeArg}" }
+    )
+}
 
 // Screens to be displayed in the top OllyTabRow
 val OllyTabRowScreens = listOf(Overview, Accounts, Bills)
