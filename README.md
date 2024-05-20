@@ -10,9 +10,10 @@
 
 ## Screenshots
 
-<!-- Add screenshots of your app here -->
-<!-- ![Screenshot1](url_to_screenshot1) -->
-<!-- ![Screenshot2](url_to_screenshot2) -->
+<img src="Screenshot_20240520_175103.png" alt="Screenshot 1" width="300"/>
+<img src="Screenshot_20240520_175133.png" alt="Screenshot 2" width="300"/>
+<img src="Screenshot_20240520_175151.png" alt="Screenshot 2" width="300"/>
+
 
 ## Demo Video
 
