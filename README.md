@@ -17,9 +17,9 @@
 ## Demo Video
 
 Check out this video to see the app in action:
-
-[![Bank Account Simulator Demo](https://github.com/Iptriana98/Olly/blob/main/Screenshot_20240520_175103.png#:~:text=Screen_recording_20240520_173048.webm-,Screenshot_20240520_175103,-.png)](https://github.com/Iptriana98/Olly/blob/main/Screen_recording_20240520_173048.webm)
-
+<a href="https://github.com/Iptriana98/Olly/blob/main/Screen_recording_20240520_173048.webm" target="_blank">
+<img src="https://github.com/Iptriana98/Olly/blob/main/Screenshot_20240520_175103.png" alt="Bank Account Simulator Demo" width="300"/>
+</a>
 ## Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
