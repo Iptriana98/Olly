@@ -6,7 +6,7 @@
 
 - 📊 **View Account Overview**: Easily view of your current accounts and balances.
 - 📜 **Transaction History**: View a list of all transactions including deposits, withdrawals, and transfers.
-- 📨 **Bill Payments**: Login securely with your credentials.
+- 🔔 **Alerts**: List of alerts.
 
 ## Screenshots
 
@@ -18,7 +18,7 @@
 
 Check out this video to see the app in action:
 
-[![Bank Account Simulator Demo](http://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=VIDEO_ID_HERE)
+[![Bank Account Simulator Demo](https://github.com/Iptriana98/Olly/blob/main/Screenshot_20240520_175103.png#:~:text=Screen_recording_20240520_173048.webm-,Screenshot_20240520_175103,-.png)](https://github.com/Iptriana98/Olly/blob/main/Screen_recording_20240520_173048.webm)
 
 ## Getting Started
 
