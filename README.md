@@ -21,7 +21,7 @@ and track their transaction history.
 ## Demo Video
 
 Check out this video to see the app in action:
-![Bank Account Simulator Demo](Demo.gif)
+<img src="Screenshot_20240520_175151.png" alt="Screenshot 2" width="220"/>
 
 ## Getting Started
 
