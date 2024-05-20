@@ -13,17 +13,15 @@ and track their transaction history.
 ## Screenshots
 
 <p float="left">
-    <img src="Screenshot_20240520_175103.png" alt="Screenshot 1" width="300"/>
-    <img src="Screenshot_20240520_175133.png" alt="Screenshot 2" width="300"/>
-    <img src="Screenshot_20240520_175151.png" alt="Screenshot 2" width="300"/>
+    <img src="Screenshot_20240520_175103.png" alt="Screenshot 1" width="220"/>
+    <img src="Screenshot_20240520_175133.png" alt="Screenshot 2" width="220"/>
+    <img src="Screenshot_20240520_175151.png" alt="Screenshot 2" width="220"/>
 </p>
 
 ## Demo Video
 
 Check out this video to see the app in action:
-<a href="https://github.com/Iptriana98/Olly/blob/main/Screen_recording_20240520_173048.webm" target="_blank">
-<img src="https://github.com/Iptriana98/Olly/blob/main/Screenshot_20240520_175103.png" alt="Bank Account Simulator Demo" width="300"/>
-</a>
+![Bank Account Simulator Demo](Demo.gif)
 
 ## Getting Started
 
@@ -36,9 +34,9 @@ development and testing purposes.
 - Java JDK 11 or higher
 - Android SDK
 
-### Installation
+### Built With
+- Kotlin
+- Jetpack Compose
+- Material Design
 
-1. **Clone the repo**
 
-   ```sh
-   git clone https://github.com/your_username/your_repo_name.git
