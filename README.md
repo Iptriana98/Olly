@@ -23,12 +23,7 @@ and track their transaction history.
 Check out this video to see the app in action:
 <img src="Screenshot_20240520_175151.png" alt="Screenshot 2" width="220"/>
 
-## Getting Started
-
-Follow these instructions to get a copy of the project up and running on your local machine for
-development and testing purposes.
-
-### Prerequisites
+## Prerequisites
 
 - [Android Studio](https://developer.android.com/studio)
 - Java JDK 11 or higher
