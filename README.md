@@ -1,9 +1,10 @@
 # Olley
 
 <p float="left">
-    <img src="Screenshot_20240520_175103.png" alt="Screenshot 1" width="220"/>
-    <img src="Screenshot_20240520_175133.png" alt="Screenshot 2" width="220"/>
-    <img src="Screenshot_20240520_175151.png" alt="Screenshot 2" width="220"/>
+    <img src="Apple iPhone 11 Pro Max Screenshot 1.png" alt="Screenshot 1" width="220"/>
+    <img src="Apple iPhone 11 Pro Max Screenshot 2.png" alt="Screenshot 2" width="220"/>
+    <img src="Apple iPhone 11 Pro Max Screenshot 3.png" alt="Screenshot 3" width="220"/>
+    <img src="Apple iPhone 11 Pro Max Screenshot 4.png" alt="Screenshot 4" width="220"/>
 </p>
 
 🚀 **Olley Bank Simulator** is a mobile application that allows users to view their account balance
